@@ -1,4 +1,5 @@
-FROM komljen/ubuntu
+# FROM komljen/ubuntu
+FROM golang:1.19
 MAINTAINER Alen Komljen <alen.komljen@live.com>
 
 RUN \
